@@ -7,3 +7,4 @@ and use mapping
 
 https://raw.githubusercontent.com/Fribb/anime-lists/refs/heads/master/anime-list-full.json mapiing for anime to mal to tmdb imdb id
 ========================================
+https://ytbro8326-sudo.github.io/tmdb_api-checker/kona.html  and alsmost same  previoussrtfile.html
