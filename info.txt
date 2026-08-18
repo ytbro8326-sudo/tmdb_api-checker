@@ -1,1 +1,6 @@
 previoussrtfile.html  has kiwi sub dub , megaplay , vidwish all use sandbox  https://anime-stream-finder.onrender.com/api/stream?mal=61316&ep=1  it is anime theme it use jikan api which is limited
+
+
+
+https://ytbro8326-sudo.github.io/tmdb_api-checker/index2.html  it is anime theme backed by tmdb api wich convert tmdb to mal id
+and use mapping
