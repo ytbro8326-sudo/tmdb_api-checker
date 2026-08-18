@@ -8,3 +8,8 @@ and use mapping
 https://raw.githubusercontent.com/Fribb/anime-lists/refs/heads/master/anime-list-full.json mapiing for anime to mal to tmdb imdb id
 ========================================
 https://ytbro8326-sudo.github.io/tmdb_api-checker/kona.html  and alsmost same  previoussrtfile.html
+
+
+==========================
+https://ytbro8326-sudo.github.io/tmdb_api-checker/combined_index.html  this is more advanced it use hianime database , kiwi sub dub , cutom hls player with proxy , and megaplay vidwish 
+=======================
