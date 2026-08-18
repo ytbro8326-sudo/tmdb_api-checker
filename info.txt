@@ -5,5 +5,5 @@ previoussrtfile.html  has kiwi sub dub , megaplay , vidwish all use sandbox  htt
 https://ytbro8326-sudo.github.io/tmdb_api-checker/index2.html  it is anime theme backed by tmdb api wich convert tmdb to mal id
 and use mapping 
 
-https://raw.githubusercontent.com/Fribb/anime-lists/refs/heads/master/anime-list-full.json
+https://raw.githubusercontent.com/Fribb/anime-lists/refs/heads/master/anime-list-full.json mapiing for anime to mal to tmdb imdb id
 ========================================
